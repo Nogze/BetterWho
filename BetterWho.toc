@@ -1,0 +1,11 @@
+## Interface: 11403
+## Title: BetterWho
+## Notes: A simple add-on to find and message players matching criterias.
+## Version: 1.0
+
+embeds.xml
+
+Libs\Ace3\AceEvent-3.0\AceEvent-3.0.xml
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+Core\BetterWho.lua
